@@ -1,1 +1,33 @@
 /*  your css code here. If applicable */
+body{
+	max-width:1100px;
+	margin:0 auto;
+	padding:0px;
+}
+table {
+    border-collapse: collapse; 
+    /* width: 100%; */
+	/* table-layout:fixed; */
+}
+
+td {
+    border: 1px solid black; 
+	padding:8px;
+}
+div img{
+	width:300px;
+	height:auto;
+}
+td img {
+    width: 100%; 
+    height: auto; 
+}
+#first{
+	width:200px;
+}
+#second{
+	width:600px;
+}
+#third{
+	width:200px;
+}
